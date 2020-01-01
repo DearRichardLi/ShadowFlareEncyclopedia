@@ -1,0 +1,18 @@
+<<Player [RICHARD] login to this world.>>
+<<Player [MO] login to this world.>>
+[RICHARD] hih
+[RICHARD] close that door
+[RICHARD] a looooong way to go
+RICHARD:ok
+<<Player [MO] login to this world.>>
+<<Player [MO] logout from this world.>>
+<<Player [MO] login to this world.>>
+<<Player [MO] logout from this world.>>
+<<Player [MO] login to this world.>>
+<<Player [MO] logout from this world.>>
+<<Player [MO] login to this world.>>
+MO:==
+<<Player [RICHARD] logout from this world.>>
+<<Player [MO] logout from this world.>>
+<<Player [MO] login to this world.>>
+<<Player [MO] logout from this world.>>

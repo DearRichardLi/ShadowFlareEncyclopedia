@@ -1,0 +1,16 @@
+<<Player [RICHARD] login to this world.>>
+<<Player [boss] login to this world.>>
+RICHARD:你好啊
+boss:鉣
+RICHARD:繁體中文版要用BIG5聊天才能看到
+boss:跤撓璃蛌曹
+RICHARD:放不下就先扔地上
+RICHARD:頂級的差不多都給你了
+<<Player [RICHARD] logout from this world.>>
+<<Player [boss] logout from this world.>>
+<<Player [boss] login to this world.>>
+[RICHARD] 打任務啊
+RICHARD:還打這個？
+[RICHARD] 去賽娜祀堂
+[RICHARD] 先回主教城
+<<Player [boss] logout from this world.>>

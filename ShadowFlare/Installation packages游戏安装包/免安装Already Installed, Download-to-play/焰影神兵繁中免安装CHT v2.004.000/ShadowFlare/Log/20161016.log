@@ -1,0 +1,19 @@
+RICHARD:hello
+[RICHARD] hello
+abc:0.0
+abc:加入游戏时候怎么弄
+[RICHARD] press shift+enter to speak in all world
+abc:0.0
+abc:加入游戏时候怎么弄
+[RICHARD] kan bu liao 
+<<Player [abc] login to this world.>>
+<<Player [RICHARD] login to this world.>>
+abc:thanks
+abc:i think i know how to play this now
+[RICHARD] that's it
+[RICHARD] enioy
+abc:en
+abc:it's time to lunch,bye
+RICHARD:bye^_^
+<<Player [abc] logout from this world.>>
+<<Player [RICHARD] logout from this world.>>
