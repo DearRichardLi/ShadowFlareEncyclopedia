@@ -258,7 +258,7 @@ Page 1
 03.取回丝莉亚的精灵石                00000000-00010005-00000000           接04
 04.将尘土遗迹的怪物消灭              00000000-00010004-00000000           玩家到达5级
 05.取回罗桑那的回忆之红宝石          01000000-01000001-01000000           交04
-06.帮格多跑腿                        01000000-00000000-01000000           16级
+06.帮格多跑腿                        01000000-00000000-01000000           玩家到达16级
 07.将冰冷遗迹的怪物消灭              01000000-01020002-01000000           交05
 08.侦查判决炼狱,并且将怪物消灭       01000000-01030002-01000000           交07
 09.侦查轮回遗迹,并且将怪物消灭       01000000-01040002-01000000           交08
@@ -286,23 +286,23 @@ Page 2
 28.晋见圣骑士莱刚                    03900003----------03110004           接27,[03900003SE]对话
 29.冲破莱刚之塔                      03110004-03110000-03110004           交28
 30.取回神圣遗物"天使之指甲"          03900003-03120000-03900003           交29
-31.调查远古之遗迹                    03900003-03140001-03900003           交30
+31.调查远古之遗迹                    03900003-03140001-03900003           交30,[03900003W]对话
 32.取得解毒剂                        03900003-03130000-03900004           交31
-33.讨伐贾格尔                        03900003-03010004-03900003           交32
+33.讨伐贾尔格                        03900003-03010004-03900003           交32
 34.帮摩里斯夫人跑腿                  03900003----------03900003           到达[03900003]
-35.被偷走的"欧贝隆之泪"              02200000-03240000-02200000           [03900003W][03900002]对话
-36.远古之短刀                        03900004-03000101-03900004           交33,交27
+35.被偷走的"欧贝隆之泪"              02200000-03240000-02200000           交33,[03900003W][03900002]对话
+36.远古之短刀                        03900004-03000101-03900004           交27
 
-37.取回神圣遗物"天使之记忆"          03900003-04010000-03900003           交33,交27,取得金光球,银光球
+37.取回神圣遗物"天使之记忆"          03900003-04010000-03900003           交27,取得金光球,银光球
 38.将神圣遗物交给圣女塞娜            03900003----------03900005           交37
 39.取得蓝、绿光球                    03900005-04020000&04070001-03900005  交38,接40
-40.找出贾格尔夫妻的纪念物            04900001-04900003-04900001           取得绿光球
+40.找出贾尔格夫妻的纪念物            04900001-04900003-04900001           取得绿光球
 41.取得红光球                        03900005-04080004-03900005           交39
 42.夺回退魔之遗迹                    04900002-04040000-04900002           到达[04900002]对话
 43.前往哥利亚提之馆                  04900002-04020002-04900002           到达[04000009N]触发剧情
 44.打倒魔神迪格诺西斯                04900002-04060006-04900002           交43
-45.贤者之遗迹                        03900004-04100000-04100000           [03900004SE]8w gold对话
-46.贾格尔派余党的叛乱                03900003-04090003-03900003           交40
+45.贤者之遗迹                        03900004-04100000-04100000           [03900004SE]8w Gold对话
+46.贾尔格派余党的叛乱                03900003-04090003-03900003           交40
 47.镇压恶魔之碉堡                    03900005-04120001-03900005           交46,[04000006NM]炼金药对话
 48.疯狂之森                          03900003-04130000-03900003           交44,集齐收藏者之物
 
@@ -403,8 +403,8 @@ Page 2
  [看门人艾兰{24}]
 
 03010003 死者之遗迹 北方   2  人
- [贾格尔的部下{33}]
- [贾格尔的部下{33}]
+ [贾尔格的部下{33}]
+ [贾尔格的部下{33}]
 
 03020000 那兹尔之塔 1楼    1  人
  [艾德加祭司{22}]
@@ -510,7 +510,7 @@ Page 2
  [精灵·梅欣]
  [商人·萨贝利]
  [商人·多多利]
- [贾格尔夫人{40,46}]
+ [贾尔格夫人{40,46}]
  [达利安]
  [玛尔契亚尼{45}]
  [佛斯特]
@@ -683,26 +683,26 @@ E-Mail    dsabob69@yahoo.com
 Key    WK53-7MCR-BV8H-2788
 
 
-大仓库获取方法  unlock Giant Warehouse
+大仓库获取方法  Unlock Giant Warehouse
 
-Ⅰ  到达试炼之塔 12层自动开启
-Ⅱ  到达试炼之塔 12层自动开启
-Ⅲ  取回神圣之羽毛任务完成后获得
-Ⅳ  讨伐贾格尔任务完成后获得
-Ⅴ  被偷走的欧贝隆之泪任务完成后获得
+Ⅰ  无
+Ⅱ  无
+Ⅲ  完成任务22.取回神圣遗物"神圣之羽毛"
+Ⅳ  完成任务33.讨伐贾尔格
+Ⅴ  完成任务35.被偷走的"欧贝隆之泪"
 Ⅵ  试炼之塔 17层玩21点获得
-Ⅶ  贾格尔夫妻的纪念物任务完成后获得
-Ⅷ  打倒魔神任务完成后获得
+Ⅶ  完成任务40.找出贾尔格夫妻的纪念物
+Ⅷ  完成任务44.打倒魔神迪格诺西斯
 Ⅸ  试炼之塔 最上层玩4w的21点获得
-Ⅹ  疯狂之森任务完成后获得
+Ⅹ  完成任务48.疯狂之森
 
 
 帮摩里斯夫人跑腿任务物品  Errands for Mrs. Marris
 
-03900001  安德鲁雪镇     白布  2w   gold
-03900002  卡拉得镇       红线  0.5w gold
-03900004  矮人之村 彭赛  银针  2.5w gold
-04900000  卡拉得镇西门   白布  2w   gold
+03900001  安德鲁雪镇     白布 [White Cloth]     2w    Gold
+03900002  卡拉得镇       红线 [Red Thread]      0.5w  Gold
+03900004  矮人之村 彭赛  银针 [Silver Needles]  2.5w  Gold
+04900000  卡拉得镇西门   白布 [White Cloth]     2w    Gold
 
 
 属性药  Attribute Medicine
@@ -1576,10 +1576,10 @@ SPECIAL ITEMS [X] 特殊物品
 
 ★COLLECTOR'S ITEMS 收藏者之物★
 
-01.石榴石    [Garnet]        00000000  边境之镇             15w gold
-02.透辉石    [Diopside]      01000000  寒冰暗妖精镇         20w gold
-03.青金石    [Lapis-Lazuli]  02010000  煤矿之镇 刚佛雷      25w gold
-04.铯绿柱石  [Morganite]     02200000  精灵之村 法南        30w gold
+01.石榴石    [Garnet]        00000000  边境之镇             15w Gold
+02.透辉石    [Diopside]      01000000  寒冰暗妖精镇         20w Gold
+03.青金石    [Lapis-Lazuli]  02010000  煤矿之镇 刚佛雷      25w Gold
+04.铯绿柱石  [Morganite]     02200000  精灵之村 法南        30w Gold
 05.蓝晶石    [Kyanite]       04120001  恶魔之碉堡 地下二层
 06.锡石      [Chiastolite]   04120000  恶魔之碉堡 地下一层
 07.桂榴石    [Hessonite]     04110000  边境之遗迹
@@ -1594,22 +1594,22 @@ SPECIAL ITEMS [X] 特殊物品
 03.同伴之石  [Companion Stone]     03900005  圣女赛娜的祠堂   同伴复活时间减少
 04.神圣纹章  [Spiritual Heraldry]  03900005  圣女赛娜的祠堂   生命回复+0.5%/s
 05.恶魔之牙  [Demon Fang]          04000006  瘴气之森         任务47/精神力回复+0.5%/s
-06.黑杰克卡  [Jack]                03900003  罗斯曼兹镇       21点
-07.皇后卡    [Queen]               03900004  矮人之村 彭赛    21点
-08.国王卡    [King]                03900001  安德鲁雪镇       21点
-09.鬼牌      [Joker]               03900002  卡拉得镇         21点
+06.黑杰克卡  [Jack]                03900003  罗斯曼兹镇       玩21点
+07.皇后卡    [Queen]               03900004  矮人之村 彭赛    玩21点
+08.国王卡    [King]                03900001  安德鲁雪镇       玩21点
+09.鬼牌      [Joker]               03900002  卡拉得镇         玩21点
 
 ★ATTRIBUTE MEDICINE 属性药★
 
-01.白之药    [White Medicine]    5w gold
-02.火之药    [Fire Medicine]     3w gold
-03.水之药    [Water Medicine]    3w gold
-04.地之药    [Earth Medicine]    3w gold
-05.雷之药    [Thunder Medicine]  3w gold
-06.圣之药    [Holy Medicine]     3w gold
-07.暗之药    [Dark Medicine]     3w gold
-08.透之药    [Gel Medicine]      3w gold
-09.机之药    [Matal Medicine]    3w gold
+01.白之药    [White Medicine]    5w Gold
+02.火之药    [Fire Medicine]     3w Gold
+03.水之药    [Water Medicine]    3w Gold
+04.地之药    [Earth Medicine]    3w Gold
+05.雷之药    [Thunder Medicine]  3w Gold
+06.圣之药    [Holy Medicine]     3w Gold
+07.暗之药    [Dark Medicine]     3w Gold
+08.透之药    [Gel Medicine]      3w Gold
+09.机之药    [Matal Medicine]    3w Gold
 
 
 宠物初始属性  Companion's Status
@@ -1628,7 +1628,7 @@ HP      400        400        400        500        350        200
 经验值  0          0          0          0          0          0
 
 
-宠物每升一级所需经验  EXP. requirement
+宠物每升一级所需经验  EXP. Requirement
 
 克尔贝罗斯  100
 格拉比提    100
@@ -1655,7 +1655,7 @@ HP      3460       2950       2950       3900       2440       2240
 经验值  Max        Max        Max        Max        Max        Max
 
 
-初始属性  Original Status
+初始属性  Player's Original Status
 
           男   女
 HP        150  140
@@ -1864,7 +1864,7 @@ MP        1           尚不明确
 魔法等级  1           尚不明确
 
 
-每升一级所需经验  EXP. requirement
+每升一级所需经验  EXP. Requirement
 
 001->002           25
 002->003           80
@@ -2047,6 +2047,9 @@ BGM06.Voc   ending   (eg.罗斯曼兹镇)
 帮助-------------Help
 同伴/队友--------Companion
 试炼之塔---------Tower of Ordeal
+试炼之塔 别塔----Tower of Ordeal, Annex
+仓库-------------Warehouse
+大仓库-----------Giant Warehouse
 交易-------------Trade Items
 购买装备---------Buy Armaments
 购买道具---------Buy Equipment
@@ -2082,14 +2085,14 @@ BGM音量-----------------BGM VOLUME
 取回马尔斯的宝石------------------Take back Malse's gem.
 取回丝莉亚的精灵石----------------Take back Syria's Spirit Stone.
 将尘土遗迹的怪物消灭--------------Sweep the monsters in the Dusty Ruins.
-取回罗桑那的回忆之红宝石----------Take back Rosanna'smemorable ruby.
+取回罗桑那的回忆之红宝石----------Take back Rosanna's memorable ruby.
 帮格多跑腿------------------------Errand for Gedo.
 将冰冷遗迹的怪物消灭--------------Sweep the monsters in the Cold Ruins.
 侦查判决炼狱,并且将怪物消灭-------Scout the Purgatory of Judgments.
 侦查轮回遗迹,并且将怪物消灭-------Scout the Remains of Reincarnation.
 侦查轮回遗迹周边延伸的土地--------Scout the continuing land.
 侦查不死的遗迹,并且将怪物消灭-----Scout the Immortal Remains.
-消灭位于煤矿之镇东南方的盗贼团----Destory thieves staying SE of Kanfore.
+消灭位于煤矿之镇东南方的盗贼团----Destroy thieves staying SE of Kanfore.
 前往调查优格诺斯坑道--------------Head for the Mining Tunnel of Yugunos.
 晋见魔导师吉尔修塔德--------------Meet with the Wizard Kirushutat.
 取回封印的水晶--------------------Take back the Seal Crystal.
@@ -2104,26 +2107,26 @@ BGM音量-----------------BGM VOLUME
 将贝里尼主教的报告书送达----------Deliver the Bishop Berini's report.
 镇压鼓动之遗迹--------------------Explore the Remains of Heartbeat.
 镇压配管设施----------------------Examine the plumbing.
-找出精灵战士队全灭的真相----------Truth behing death of the Elf Rangers.
+找出精灵战士队全灭的真相----------Truth behind death of the Elf Rangers.
 晋见圣骑士莱刚--------------------Meet with Saint Knight Licarn.
 冲破莱刚之塔----------------------Break through the Tower of Licarn.
 取回神圣遗物"天使之指甲"----------Get the sacred relic, Angel's Nail.
 调查远古之遗迹--------------------Research the Ancient Ruins.
 取得解毒剂------------------------Get an antidote.
-讨伐贾格尔------------------------Punitive expedition against Jurg.
+讨伐贾尔格------------------------Punitive expedition against Jurg.
 帮摩里斯夫人跑腿------------------Errands for Mrs. Morris.
 被偷走的"欧贝隆之泪"--------------Take back the stolen Tears of Oberon.
 远古之短刀------------------------Find the Ancient Short Sword.
 取回神圣遗物"天使之记忆"----------Get the sacred relic, Angel's Memory.
 将神圣遗物交给圣女塞娜------------Deliver the sacred relics to St. Sena.
 取得蓝、绿光球--------------------Get the Blue and Green Orbs.
-找出贾格尔夫妻的纪念物------------Find Mr. & Mrs. Jurg's remembrance.
+找出贾尔格夫妻的纪念物------------Find Mr. & Mrs. Jurg's remembrance.
 取得红光球------------------------Get the Red Orb.
 夺回退魔之遗迹--------------------Recapture the Ruins of Exorcism.
 前往哥利亚提之馆------------------Head for Goliate's Mansion.
 打倒魔神迪格诺西斯----------------Beat the Devil Dignosis.
 贤者之遗迹------------------------A wise man in Ruins of the Wise.
-贾格尔派余党的叛乱----------------Let the Jurg Party surrender.
+贾尔格派余党的叛乱----------------Let the Jurg Party surrender.
 镇压恶魔之碉堡--------------------Subjection of the Fort of Demons.
 疯狂之森--------------------------Go to the Forest of Madness.
 
@@ -2149,7 +2152,7 @@ BGM音量-----------------BGM VOLUME
 
 
 
-        焰影神兵数据大全 v17.0.1 2020/01/01 by Richard
+        焰影神兵数据大全 v17.0.2 2020/01/17 by Richard
                                               百度贴吧@gh121022617
                                               QQ:121022617
                                               QQ焰影神兵游戏群:19444261或257020937
